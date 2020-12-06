@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Icon=profesor150
+Icon[es_ES]=profesor150
+Name[es_ES]=Profesor
+Name=Profesor

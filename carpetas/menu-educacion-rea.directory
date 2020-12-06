@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Directory
+Icon=REA150
+Icon[es_ES]=REA150
+Name[es_ES]=REA
+Comment[es_ES]=Recursos Educativos Abiertos
+Name=REA
+Comment=Recursos Educativos Abiertos
