@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=menu-educa-tecnorobot
+Icon[es_ES]=menu-educa-tecnorobot
+Name[es_ES]=TecnoRobot
+Exec=chromium-browser  --app=http://tecnorobot.educa2.madrid.org/ favicon
+Name=TecnoRobot

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=buscador150
+Icon[es_ES]=buscador150
+Name[es_ES]=Buscador de aulas virtuales
+Exec=chromium-browser  --app=https://external.educa2.madrid.org/educamadrid/aula-virtual favicon
+Name=Buscador de aulas virtuales

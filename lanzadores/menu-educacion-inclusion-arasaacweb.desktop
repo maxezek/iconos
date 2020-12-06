@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=arasaac150
+Icon[es_ES]=arasaac150
+Exec=chromium-browser  --app=https://arasaac.org/ favicon
+Name[es_ES]=AraSAAC web
+Name=AraSAAC web

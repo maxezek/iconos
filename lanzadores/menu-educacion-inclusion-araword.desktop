@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=AraWordApp
+Icon[es_ES]=AraWordApp
+Exec=/bin/bash -c "cd /opt/AraSuite/AraWord ; ./AraWordApp" & /bin/bash -c "cd /opt/AraSuite/TICO; ./TICOApp"
+Name[es_ES]=AraSuite Pictos
+Name=AraSuite Pictos

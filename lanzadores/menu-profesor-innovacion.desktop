@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=innoFormacion
+Icon[es_ES]=innoFormacion
+Name[es_ES]=Innovación y formación
+Exec=chromium-browser  --app=https://innovacionyformacion.educa.madrid.org/ favicon
+Name=Innovación y formación
+NoDisplay=false

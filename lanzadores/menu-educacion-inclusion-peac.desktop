@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=menu-educa-peac
+Icon[es_ES]=menu-educa-peac
+Exec=chromium-browser  --app=http://www.educa2.madrid.org/web/peac favicon
+Name[es_ES]=PEAC Altas capacidades
+Name=PEAC Altas capacidades

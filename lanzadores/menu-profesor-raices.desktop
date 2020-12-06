@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=raices150
+Icon[es_ES]=raices150
+Name[es_ES]=Raíces
+Exec=chromium-browser  --app=https://raices.madrid.org/raiz_app/jsp/portal/portalraices.html favicon
+Name=Raíces

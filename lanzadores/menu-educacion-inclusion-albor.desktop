@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=menu-educa-albor
+Icon[es_ES]=menu-educa-albor
+Name[es_ES]=Albor TIC para NEE
+Exec=chromium-browser  --app=https://external.educa2.madrid.org/web/albor favicon
+Name=Albor TIC para NEE

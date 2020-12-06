@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Comment=Espacios de formaci�n
+Exec=chromium-browser  --app=https://www.educa2.madrid.org/educamadrid/#services-2
+Icon=EspaciosFormacion1
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=EducaMadrid;
+Icon[es_ES]=EspaciosFormacion1
+Name[es_ES]=Espacios de Formación
+Name=Espacios de Formación

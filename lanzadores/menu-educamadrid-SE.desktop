@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Comment=Portal EducaMadrid www.educa2.madrid.org/educamadrid
+TryExec=/usr/bin/firefox
+Exec=chromium-browser  --app=https://www.educa2.madrid.org/educamadrid/#services-3
+Icon=ServiciosEducativos150
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=EducaMadrid;
+Icon[es_ES]=ServiciosEducativos150
+Comment[es_ES]=Portal EducaMadrid www.educa2.madrid.org/educamadrid
+Name[es_ES]=Servicios Educativos
+Name=Servicios Educativos

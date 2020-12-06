@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=esero150
+Icon[es_ES]=esero150
+Name[es_ES]=Esero ESA Europa
+Exec=chromium-browser  --app=http://esero.es/recursos/guias/ favicon
+Name=Esero ESA Europa

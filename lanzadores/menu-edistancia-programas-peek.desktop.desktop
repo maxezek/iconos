@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=com.uploadedlobster.peek
+Icon[es_ES]=com.uploadedlobster.peek
+Exec=peek
+Name[es_ES]=menu-edistancia-programas-peek.desktop
+Name=Grabador de GIF animados de pantalla

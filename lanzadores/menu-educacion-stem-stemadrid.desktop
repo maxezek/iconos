@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=menu-educa-stem
+Icon[es_ES]=menu-educa-stem
+Name[es_ES]=STEMadrid
+Exec=chromium-browser  --app=http://educacionstem.educa.madrid.org/ favicon
+Name=STEMadrid

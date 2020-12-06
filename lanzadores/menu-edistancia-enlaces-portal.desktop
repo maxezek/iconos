@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=ServiciosEducativos150
+Icon[es_ES]=ServiciosEducativos150
+Exec=chromium-browser  --app=https://external.educa2.madrid.org/educamadrid/ favicon
+Name[es_ES]=Portal EducaMadrid
+Name=Portal EducaMadrid

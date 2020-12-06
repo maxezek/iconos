@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=dpd150
+Icon[es_ES]=dpd150
+Name[es_ES]=Protección de datos
+Exec=chromium-browser  --app=https://dpd.educa2.madrid.org/ favicon
+Name=Protección de datos

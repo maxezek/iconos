@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=autismo150
+Icon[es_ES]=autismo150
+Name[es_ES]=Proyecto Autismo
+Exec=chromium-browser  --app=https://aulavirtual32.educa.madrid.org/ctif.madridcapital/course/view.php?id=1839 favicon
+Name=Proyecto Autismo
+Comment[es_ES]=Punto de encuentro sobre TEA. Automatrícula 1234 
+Comment=Punto de encuentro sobre TEA. Automaricula 

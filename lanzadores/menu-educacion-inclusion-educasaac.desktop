@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=menu-educa-educasaac
+Icon[es_ES]=menu-educa-educasaac
+Exec=chromium-browser  --app=http://educasaac.educa.madrid.org/ favicon
+Name[es_ES]=EducaSAAC web
+Name=EducaSAAC web
